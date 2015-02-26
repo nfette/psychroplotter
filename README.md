@@ -8,5 +8,5 @@ We make pretty pictures of your sensor data. Assuming you have an Arduino with t
 </ul>
 Some code snippets were sniffed from the web. Attributions:
 <ul>
-<li>web</li>
+<li>web of coming soon</li>
 </ul>
